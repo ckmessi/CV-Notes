@@ -5,6 +5,9 @@
 
 - [FaceBoxes](https://arxiv.org/pdf/1708.05234.pdf)
 - [MTCNN](https://arxiv.org/pdf/1604.02878)
+- [S<sup>3</sup>FD](https://arxiv.org/pdf/1708.05237.pdf)
+
+
 
 ### :baseball: 数据集
 - FDDB: [主页链接](http://vis-www.cs.umass.edu/fddb/) [论文链接](http://vis-www.cs.umass.edu/fddb/fddb.pdf)
