@@ -6,6 +6,7 @@
 - [FaceBoxes](https://arxiv.org/pdf/1708.05234.pdf)
 - [MTCNN](https://arxiv.org/pdf/1604.02878)
 - [S<sup>3</sup>FD](https://arxiv.org/pdf/1708.05237.pdf)
+- [SSH](https://arxiv.org/pdf/1708.03979.pdf)
 
 
 
@@ -18,6 +19,12 @@
 
 
 ## 详细介绍
+
+### :cow: 主流方法
+
+#### SSH: Single Stage Headless Face Detector
+
+
 
 ### :baseball: 数据集
 #### WIDER FACE
