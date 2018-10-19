@@ -5,8 +5,6 @@
 
 - [FaceBoxes](https://arxiv.org/pdf/1708.05234.pdf)
 - [MTCNN](https://arxiv.org/pdf/1604.02878)
-- [S<sup>3</sup>FD](https://arxiv.org/pdf/1708.05237.pdf)
-- [SSH](https://arxiv.org/pdf/1708.03979.pdf)
 
 
 
@@ -17,14 +15,13 @@
 - AFW dataset: [主页链接](https://www.ics.uci.edu/~xzhu/face/)（不可访问）
 
 
+### :notebook: 论文
+- S<sup>3</sup>FD: Single Shot Scale-invariant Face Detector, S.Zhang et al. (ICCV 2017) [[pdf]](https://arxiv.org/pdf/1708.05237.pdf)
+- SSH: Single Stage Headless Face Detector, M.Najibi et al. (ICCV 2017) [[pdf]](https://arxiv.org/pdf/1708.03979.pdf)
 
 ## 详细介绍
 
 ### :cow: 主流方法
-
-#### SSH: Single Stage Headless Face Detector
-
-
 
 ### :baseball: 数据集
 #### WIDER FACE
