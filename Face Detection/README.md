@@ -19,6 +19,8 @@
 - S<sup>3</sup>FD: Single Shot Scale-invariant Face Detector, S.Zhang et al. (ICCV 2017) [[pdf]](https://arxiv.org/pdf/1708.05237.pdf)
 - SSH: Single Stage Headless Face Detector, M.Najibi et al. (ICCV 2017) [[pdf]](https://arxiv.org/pdf/1708.03979.pdf)
 - SFace: An Efficient Network for Face Detection in Large Scale Variations, J.Wang et al. (CVPR 2018) [[pdf]](https://arxiv.org/pdf/1804.06559.pdf)
+- Face R-CNN, H.Wang et al. [[pdf]](https://arxiv.org/pdf/1706.01061.pdf)
+
 
 ### :rocket: 项目
 - libfacedetection [GitHub仓库链接](https://github.com/ShiqiYu/libfacedetection)
