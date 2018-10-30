@@ -24,7 +24,8 @@
 
 
 ### :rocket: 项目
-- libfacedetection [GitHub仓库链接](https://github.com/ShiqiYu/libfacedetection)
+- **libfacedetection** [[GitHub仓库链接]](https://github.com/ShiqiYu/libfacedetection)
+- **face-api.js**  [[GitHub仓库链接]](https://github.com/justadudewhohacks/face-api.js) [[Demo]](https://justadudewhohacks.github.io/face-api.js/face_and_landmark_detection) [[入门文章]](https://itnext.io/face-api-js-javascript-api-for-face-recognition-in-the-browser-with-tensorflow-js-bcc2a6c4cf07)
 
 
 
