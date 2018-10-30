@@ -38,7 +38,7 @@
 
 几项关键指标：`393703`人脸，`32203`图片，`40%/10%/50%`划分训练、验证、测试集，`61`项事件分类。
 
-评价标准通常可划分为：`Scenario-Ext`和`Scenario-Int`，前者表示用任意外部数据进行训练，后者表示用 `WIDER FACE` 的 `training/validation set` 进行训练，两者都在 `WIDER FACE` 的 `testing set` 进行测试。
+评价标准通常可划分为：`Scenario-Ext` 和 `Scenario-Int`，前者表示用任意外部数据进行训练，后者表示用 `WIDER FACE` 的 `training/validation set` 进行训练，两者都在 `WIDER FACE` 的 `testing set` 进行测试。
 目前主流方法通常采用 `Scenario-Int` 评价标准。
 
 更多详情可以参考 [WIDER FACE: A Face Detection Benchmark](http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/)
