@@ -20,6 +20,7 @@
 - SSH: Single Stage Headless Face Detector, M.Najibi et al. (ICCV 2017) [[pdf]](https://arxiv.org/pdf/1708.03979.pdf)
 - SFace: An Efficient Network for Face Detection in Large Scale Variations, J.Wang et al. (CVPR 2018) [[pdf]](https://arxiv.org/pdf/1804.06559.pdf)
 - Face R-CNN, H.Wang et al. [[pdf]](https://arxiv.org/pdf/1706.01061.pdf)
+- Face R-FCN, H.Wang et al. [[pdf]](https://arxiv.org/pdf/1709.05256.pdf)
 
 
 ### :rocket: 项目
